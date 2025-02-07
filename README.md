@@ -1,10 +1,10 @@
 # HR-DATA-ANALYSIS
 The HR Optimize workforce management by analyzing key HR metrics to improve employee retention, productivity, and satisfaction.
 
-# Problem Statement :
+# Problem Statement 
 The company is experiencing a high employee attrition rate of 16.1%, leading to significant turnover costs and disruptions in business operations. This HR analytics project aims to identify key factors contributing to employee attrition by analyzing various demographic, educational, and job-related data points. The goal is to provide actionable insights to reduce turnover and improve job satisfaction across the organization.
 
-# Key Questions to Address :
+# Key Questions to Address 
 1.	Which departments and job roles have the highest attrition rates, and what patterns can be observed across different age groups?
 2.	How does educational background influence attrition, and are employees with certain qualifications more likely to leave?
 3.	Is there a correlation between marital status and employee retention?
@@ -21,7 +21,7 @@ The company is experiencing a high employee attrition rate of 16.1%, leading to 
 6.	Performance & Productivity Analysis
 7.	HR Decision-Making with Data-Driven Insights
 
-# Tools Used :
+# Tools Used 
 ## MS Excel (Basic & Advance)
 
 ## The Key Features and Functions likely used in MS Excel to create Dashboard, along with brief explanations:
@@ -77,7 +77,7 @@ Represented the distribution of employees by gender, department-wise attrition, 
 10.	Attrition by Job Role
 
 
-# Key Insights :
+# Key Insights 
 
 
 ### 1.	Overall Attrition Rate ( 16.1% ) 
@@ -115,7 +115,7 @@ The Upto-5K Salary Shows the highest Attrition (163 individuals),followed by 5K-
 
 
 
-# Conclusion :
+# Conclusion 
 
 The HR Data Analysis project provides valuable insights into employee attrition, salary trends, recruitment efficiency, and workforce productivity. By analyzing key HR metrics, organizations can identify high-risk areas, optimize hiring strategies, and improve employee retention.
 Key findings highlight that salary plays a significant role in attrition, with lower salary slabs experiencing higher turnover. Performance trends, employee satisfaction, and diversity analysis further help in shaping better HR policies.
