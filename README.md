@@ -61,3 +61,68 @@ Used for labeling, titles, and descriptions (e.g., "HR Analytics Dashboard" or "
 
 Represented the distribution of employees by gender, department-wise attrition, education-level attrition, and more.
 
+
+# Features and KPI’S 
+
+
+1.	Total Employees
+2.	Attrition
+3.	Attrition Rate
+4.	Avg Age
+5.	Avg salary
+6.	Attrition By Gender
+7.	Attrition by Education
+8.	Attrition by Age
+9.	Attrition by Years at Company
+10.	Attrition by Job Role
+
+
+# Key Insights :
+
+
+### 1.	Overall Attrition Rate ( 16.1% ) 
+
+The company has a relatively high attrition rate of 16.1%, which signals a pressing  need to investigate underlying causes, such as job satisfaction, currently rated Addressing this issue can improve retention and reduce costs.
+
+### 2. Attrition by Education Level
+
+Employees with Life Science  have the highest attrition (89 individuals), indicating possible dissatisfaction with career development or job roles. Medical  holders also have a notable attrition count (63), suggesting room for improvement in employee engagement.
+
+### 3. Attrition by Job Role
+
+Laboratory Technician(62) and Sales Executives (57) experience the highest attrition, highlighting significant challenges in these roles, possibly due to job stress or unmet career expectations. This suggests the need for improved leadership training and support.
+
+### 4. Attrition by Age Group
+
+The 26-35 age group shows the highest attrition (116 individuals), followed by 18-25 (44 individuals), indicating that younger employees are more likely to leave, likely in search of better opportunities. Retention strategies should focus on career growth for younger staff.
+
+### 5. Gender Distribution of Employees
+
+Male employees (140) outnumber female employees (79), but the dashboard does not show significant gender-based attrition differences. This could indicate gender balance in retention but further analysis may be required.
+
+
+### 6.	Attrition by Salary Slab 
+
+The Upto-5K Salary Shows the highest Attrition (163 individuals),followed by 5K-10K shows the (49 individuals)  & 10K-15K (20 individuals), 15K+(5 individuals)  Lower salary slabs may have high attrition due to financial dissatisfaction. Mid-level salary employees might leave due to career stagnation.Senior employees in high salary brackets may leave for leadership roles elsewhere. to likely in better Opportunites.
+
+
+# Repository Structure
+
+* Data :
+* Dashboard:
+  
+  ### Snapshot of Dashboard :
+
+
+
+
+# Conclusion :
+
+The HR Data Analysis project provides valuable insights into employee attrition, salary trends, recruitment efficiency, and workforce productivity. By analyzing key HR metrics, organizations can identify high-risk areas, optimize hiring strategies, and improve employee retention.
+Key findings highlight that salary plays a significant role in attrition, with lower salary slabs experiencing higher turnover. Performance trends, employee satisfaction, and diversity analysis further help in shaping better HR policies.
+
+
+
+
+
+
