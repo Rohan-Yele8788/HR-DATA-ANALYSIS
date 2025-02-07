@@ -111,8 +111,7 @@ The Upto-5K Salary Shows the highest Attrition (163 individuals),followed by 5K-
 * Data : "https://github.com/Rohan-Yele8788/HR-DATA-ANALYSIS/blob/main/HR_Analytics%20Data%20set.csv"</a>
 * Dashboard: "https://github.com/Rohan-Yele8788/HR-DATA-ANALYSIS/blob/main/HR%20Analytics%20Dashboard.pbix"</a>
   
-  ### Snapshot of Dashboard :
-
+### Snapshot of Dashboard :  ![HR Analytics Image](https://github.com/user-attachments/assets/b8381f70-a50d-4d2d-b4ee-6362b295ef4a)
 
 
 
