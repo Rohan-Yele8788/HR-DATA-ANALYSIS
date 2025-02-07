@@ -24,7 +24,7 @@ The company is experiencing a high employee attrition rate of 16.1%, leading to 
 # Tools Used :
 ## MS Excel (Basic & Advance)
 
-## The Key Features and Functions likely used in MS Excel to create Dashboard, along with brief explanations:
+### The Key Features and Functions likely used in MS Excel to create Dashboard, along with brief explanations:
 
 ### 1.	Pivot Table
 
